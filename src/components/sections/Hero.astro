@@ -2,7 +2,7 @@
 import { basics } from '@cv'
 import Section from '@/components/Section.astro'
 import { Icon } from 'astro-icon/components'
-const { name, animated_secondary_initial_label, animated_main_label,image, location, email } = basics
+const { name, animated_secondary_initial_label, animated_main_label, pfp, location, email } = basics
 const { region } = location
 ---
 
@@ -22,7 +22,7 @@ const { region } = location
             class='scale-110 sm:grayscale sm:scale-100 transition-all sm:group-hover:scale-110 sm:group-hover:grayscale-0'
             height={600}
             width={600}
-            src={image}
+            src={pfp}
             alt={`Profile of ${name}`}
             loading='eager' />
         </figure>
@@ -51,7 +51,7 @@ const { region } = location
         <!-- {address}, {city}, {region} -->
         {region}
       </div>
-      <div class="hidden print:block"><b>Contact: </b>{email}</div>
+      <div class="print:block"><b>Contact: </b>{email}</div>
     </section>
   </div>
   <div class='flex gap-6 print:hidden'>
