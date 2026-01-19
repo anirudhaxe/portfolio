@@ -1,0 +1,397 @@
+{
+  "analyticsCode": "",
+  "basics": {
+    "name": "Aniruddha Chaudhary",
+    "label": "Software Engineer",
+    "animated_main_label": "engineer",
+    "animated_secondary_initial_label": "software",
+    "animated_secondary_final_label": "fullstack",
+    "image": "/pfp.png",
+    "email": "aniruddha.dev.work@outlook.com",
+    "url": "https://anirudhaxe.com",
+    "summary": "Multi-Disciplinary Software Engineer with 3+ years of experience across Full-Stack Development, DevOps, and AI.",
+    "theme": "platinum",
+    "location": {
+      "address": "",
+      "city": "",
+      "countryCode": "IN",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "Email",
+        "icon": "ri:mail-fill",
+        "color": "#D44638",
+        "username": "aniruddha.dev.work@outlook.com",
+        "url": "mailto:aniruddha.dev.work@outlook.com"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "color": "#929AAB",
+        "username": "anirudhaxe",
+        "url": "https://github.com/anirudhaxe"
+      },
+      {
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "color": "#1DA1F2",
+        "username": "anirudhchydev",
+        "url": "https://www.linkedin.com/in/anirudhchydev"
+      },
+      {
+        "network": "X / Twitter",
+        "icon": "simple-icons:x",
+        "color": "#929AAB",
+        "username": "@varchar256kb",
+        "url": "https://x.com/varchar256kb"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "AMUS SOFTWARE SL",
+      "position": "Software Team Lead",
+      "location_type": "Remote",
+      "location": "ES",
+      "url": "https://amussoft.com/",
+      "startDate": "2023-12-01",
+      "endDate": null,
+      "summary": "Led a team of 5 developers in an agile environment to deliver various features across various products and tech-stacks, discussed and brainstormed on different system designs with the team.",
+      "responsibilities": [
+        "Managed AWS resources (VPC, EC2, S3, RDS, IAM etc) using Terraform, embracing IAC principles.",
+        "Orchestrated deployment of containerized applications on AWS ECS (Fargate/EC2) using multi-stage build optimized Dockerfiles. Implemented auto-scaling policies for optimal resource utilization and availability.",
+        "Configured scalable database solutions, PostgreSQL clusters (AWS Aurora v2 Serverless) and Redis/Valkey clusters as caching layer for optimizing DB-intensive operations (AWS ElastiCache).",
+        "Led development of modern, full-stack applications (Invoicing, CRM, HRMS SaaS) for European clients using NextJS, React Server Components, Node.js/Bun based express/hono servers, and various AWS services.",
+        "Integrated generative AI solutions (AI agents / RAG pipelines / data classifiers) using SOTA LLMs.",
+        "Engineered a scalable PDF microservice using Puppeteer on AWS Lambda & API Gateway. Implemented AI document scan using user configurable programmatic emails using AWS SES, S3, Lambda and SQS.",
+        "Developed cross-platform mobile app using React Native (Expo framework) & cross-platform desktop app using Electron, with robust IPC (inter-process communication) and integration with existing REST API."
+      ],
+      "skills": {
+        "React": "simple-icons:react",
+        "TypeScript": "simple-icons:typescript",
+        "Node.js": "ri:nodejs-line",
+        "LangChain": "simple-icons:langchain",
+        "Hono": "simple-icons:hono",
+        "React Native": "simple-icons:react",
+        "Electron": "simple-icons:electron",
+        "Next.js": "simple-icons:nextdotjs",
+        "AWS Cloud": "simple-icons:amazonaws",
+        "Terraform": "simple-icons:terraform",
+        "Docker": "simple-icons:docker",
+        "Linux": "simple-icons:linux",
+        "PostgreSQL": "simple-icons:postgresql",
+        "Redis": "simple-icons:redis"
+      }
+    },
+    {
+      "name": "AMUS SOFTWARE SL",
+      "position": "Software Engineer",
+      "location_type": "Remote",
+      "location": "ES",
+      "url": "https://amussoft.com/",
+      "startDate": "2023-03-01",
+      "endDate": "2023-12-01",
+      "summary": "Worked on developing and deploying end-to-end full stack projects, integration with existing TMS systems of freight forwarding companies.",
+
+      "responsibilities": [
+        "Developed and deployed a service for freight forwarding companies, integrating their existing enterprise ERP (CW1) and custom TMS using Node.js and special timezone sensitive cron jobs for shipment tracking, online bookings, and e-docs management - complemented with user friendly React UI.",
+        "Architected custom CICD pipelines for diverse project types (cross-platform mobile/desktop apps, servers, full-stack web frameworks, SPA’s), enabling automated building and deployment to AWS.",
+        "DNS management via Route 53 & Cloudflare, configured load balancers, health checks & target groups."
+      ],
+
+      "skills": {
+        "React": "simple-icons:react",
+        "Node.js": "ri:nodejs-line",
+        "React Query": "simple-icons:reactquery",
+        "React Hook Form": "simple-icons:reacthookform",
+        "Zod": "simple-icons:zod",
+        "HTML5": "simple-icons:html5",
+        "Tailwind": "mdi:tailwind",
+        "JavaScript ": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "Redux": "simple-icons:redux",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "MongoDB": "simple-icons:mongodb",
+        "AWS Cloud": "simple-icons:amazonaws",
+        "Postman": "simple-icons:postman"
+      }
+    }
+  ],
+  "education": [],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Typescript",
+      "icon": "simple-icons:typescript",
+      "level": "Advanced",
+      "keywords": [
+        "Programming Language",
+        "Type Safety",
+        "JavaScript",
+        "Backend",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Go",
+      "icon": "simple-icons:go",
+      "level": "Advanced",
+      "keywords": [
+        "Programming Language",
+        "Backend",
+        "Concurrent",
+        "High Performance"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "simple-icons:react",
+      "level": "Advanced",
+      "keywords": ["Frontend", "JavaScript Library", "UI", "Component-based"]
+    },
+    {
+      "name": "React Native",
+      "icon": "simple-icons:react",
+      "level": "Advanced",
+      "keywords": ["Mobile Development", "Cross-platform", "iOS", "Android"]
+    },
+    {
+      "name": "Electron",
+      "icon": "simple-icons:electron",
+      "level": "Advanced",
+      "keywords": [
+        "Desktop Application",
+        "Cross-platform",
+        "Node.js",
+        "Chromium"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "icon": "simple-icons:nextdotjs",
+      "level": "Advanced",
+      "keywords": ["Frontend", "SSR", "React Framework", "Full-stack"]
+    },
+    {
+      "name": "LangChain",
+      "icon": "simple-icons:langchain",
+      "level": "Advanced",
+      "keywords": ["AI", "LLM", "Chains", "Agents", "RAG"]
+    },
+    {
+      "name": "AI SDK",
+      "icon": "simple-icons:vercel",
+      "level": "Advanced",
+      "keywords": ["AI", "Vercel", "Streaming", "Edge", "LLM"]
+    },
+    {
+      "name": "Hono",
+      "icon": "simple-icons:hono",
+      "level": "Advanced",
+      "keywords": ["Backend", "Web Framework", "TypeScript", "Edge"]
+    },
+    {
+      "name": "GraphQL",
+      "icon": "simple-icons:graphql",
+      "level": "Advanced",
+      "keywords": ["API", "Query Language", "Schema", "Data Fetching"]
+    },
+    {
+      "name": "Node.js",
+      "icon": "ri:nodejs-line",
+      "level": "Advanced",
+      "keywords": ["Backend", "Runtime", "JavaScript", "Server"]
+    },
+    {
+      "name": "Bun",
+      "icon": "simple-icons:bun",
+      "level": "Advanced",
+      "keywords": ["Runtime", "JavaScript", "TypeScript", "High Performance"]
+    },
+    {
+      "name": "AWS Cloud",
+      "icon": "simple-icons:amazonaws",
+      "level": "Advanced",
+      "keywords": ["Cloud", "Infrastructure", "Computing", "Networking"]
+    },
+    {
+      "name": "Terraform",
+      "icon": "simple-icons:terraform",
+      "level": "Advanced",
+      "keywords": ["Infrastructure", "IaC", "Cloud", "Provisioning"]
+    },
+    {
+      "name": "Docker",
+      "icon": "simple-icons:docker",
+      "level": "Advanced",
+      "keywords": [
+        "Containers",
+        "Virtualization",
+        "Deployment",
+        "Orchestration"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "icon": "simple-icons:kubernetes",
+      "level": "Advanced",
+      "keywords": ["Containers", "Orchestration", "Scaling", "Clustering"]
+    },
+    {
+      "name": "Jenkins",
+      "icon": "simple-icons:jenkins",
+      "level": "Advanced",
+      "keywords": ["CI/CD", "Automation", "Build", "Pipeline"]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Advanced",
+      "keywords": ["OS", "Server", "CLI", "System Administration"]
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "simple-icons:postgresql",
+      "level": "Advanced",
+      "keywords": ["Database", "SQL", "Relational", "ACID"]
+    },
+    {
+      "name": "Vector Databases",
+      "icon": "mdi:database",
+      "level": "Advanced",
+      "keywords": ["AI", "Embeddings", "Vector Search", "Semantic Search"]
+    },
+    {
+      "name": "Redis",
+      "icon": "simple-icons:redis",
+      "level": "Advanced",
+      "keywords": ["Database", "Caching", "In-memory", "Key-value"]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Advanced",
+      "keywords": ["Database", "NoSQL", "Document", "Flexible Schema"]
+    },
+    {
+      "name": "Swagger",
+      "icon": "simple-icons:swagger",
+      "level": "Advanced",
+      "keywords": ["API", "Documentation", "OpenAPI", "Specification"]
+    },
+    {
+      "name": "Postman",
+      "icon": "simple-icons:postman",
+      "level": "Advanced",
+      "keywords": ["API", "Testing", "Debugging", "HTTP Client"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "name": "OpenContext",
+      "icon": "simple-icons:typescript",
+      "isActive": false,
+      "description": "Context oriented AI application.",
+      "highlights": [
+        "A full stack context oriented AI application, uses a browser extension to vectorize web/video content.",
+        "Runs OpenAI whisper ASR model locally to transcribe online videos and store them in a vector database.",
+        "Conditional RAG (Retrieval-Augmented Generation).",
+        "Custom MCP (Model Context Protocol) server.",
+        "Chat application with tool calls, custom context selector, custom markdown formatting."
+      ],
+      "stack": {
+        "TypeScript": "simple-icons:typescript",
+        "LangChain": "simple-icons:langchain",
+        "AI SDK": "simple-icons:vercel",
+        "Transformer.js": "simple-icons:huggingface",
+        "Qdrant": "mdi:database",
+        "OpenRouter": "simple-icons:openrouter",
+        "Next.js": "simple-icons:nextdotjs",
+        "tRPC": "simple-icons:trpc",
+        "BullMQ": "simple-icons:redbull",
+        "Hono": "simple-icons:hono",
+        "Drizzle": "simple-icons:drizzle",
+        "Docker": "mdi:docker"
+      },
+      "github": "https://github.com/anirudhaxe/opencontext"
+    },
+    {
+      "name": "Go API Servers",
+      "icon": "simple-icons:go",
+      "isActive": false,
+      "description": "Collection of Go backend servers paired with various tools and frameworks.",
+      "highlights": [
+        "GraphQL: Implements a GraphQL API layer implemented using gqlgen (schema-first code generation for resolvers and models).",
+        "sqlc: The sqlc compiler generates type-safe Go code from raw SQL queries → implements a clean repository pattern for the data layer.",
+        "Atlas: Declarative schema migrations using Atlas.",
+        "net/http: Implements go's net/http standard lib for advanced routing, middleware, and REST endpoint grouping.",
+        "Implemented repository pattern, JWT auth and middlewares."
+      ],
+      "stack": {
+        "Go": "simple-icons:go",
+        "GraphQL": "simple-icons:graphql",
+        "sqlc - PostgreSQL": "simple-icons:postgresql",
+        "Atlas schema migrations": "mdi:database",
+        "Docker": "mdi:docker"
+      },
+      "github": "https://github.com/anirudhaxe/go-api-servers"
+    },
+    {
+      "name": "EKS Sandbox",
+      "icon": "simple-icons:kubernetes",
+      "isActive": false,
+      "description": "Experimental Kubernetes manifests on AWS EKS",
+      "highlights": [
+        "Terraform configurations and Kubernetes manifests for setting up and managing AWS EKS clusters.",
+        "EKS + K8s architecture.",
+        "VPC setup and networking.",
+        "IAM user and IAM role in EKS.",
+        "Autoscaler setup (HPA and Cluster autoscaler).",
+        "Ingress (AWS LBC & NGINX Ingress).",
+        "CSI Drivers (EBS-CSI, EFS-CSI).",
+        "EKS + Secrets Manager (AWS-Secrets-CSI)."
+      ],
+
+      "stack": {
+        "Kubernetes": "simple-icons:kubernetes",
+        "AWS EKS": "mdi:aws",
+        "Terraform": "simple-icons:terraform",
+        "Docker": "mdi:docker",
+        "NGINX Ingress": "simple-icons:nginx"
+      },
+      "github": "https://github.com/anirudhaxe/eks-sandbox"
+    },
+    {
+      "name": "Snapper",
+      "icon": "mdi:aws",
+      "isActive": false,
+      "description": "Snapper is an automated database backup service which can be self deployed over AWS cloud with just a few commands.",
+      "highlights": [
+        "Uses SST (a framework based on Pulumi and Terraform) for provisioning infrastructure and deployment.",
+        "Uses a cron job, queues, along with serverless functions and object storage for reliablility and scalability.",
+        "Migrated and ran postgresql core pg_dump binary on AWS Lambda for performing database backups."
+      ],
+
+      "stack": {
+        "SST": "simple-icons:sst",
+        "AWS Lambda": "mdi:lambda",
+        "AWS SQS": "mdi:aws",
+        "AWS S3": "mdi:bucket",
+        "PostgreSQL": "simple-icons:postgresql"
+      },
+      "github": "https://github.com/anirudhaxe/snapper"
+    }
+  ]
+}
