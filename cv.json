@@ -325,7 +325,8 @@
         "Drizzle": "simple-icons:drizzle",
         "Docker": "mdi:docker"
       },
-      "github": "https://github.com/anirudhaxe/opencontext"
+      "github": "https://github.com/anirudhaxe/opencontext",
+      "url": ""
     },
     {
       "name": "Go API Servers",
@@ -346,7 +347,8 @@
         "Atlas schema migrations": "mdi:database",
         "Docker": "mdi:docker"
       },
-      "github": "https://github.com/anirudhaxe/go-api-servers"
+      "github": "https://github.com/anirudhaxe/go-api-servers",
+      "url": ""
     },
     {
       "name": "EKS Sandbox",
@@ -371,7 +373,8 @@
         "Docker": "mdi:docker",
         "NGINX Ingress": "simple-icons:nginx"
       },
-      "github": "https://github.com/anirudhaxe/eks-sandbox"
+      "github": "https://github.com/anirudhaxe/eks-sandbox",
+      "url": ""
     },
     {
       "name": "Snapper",
@@ -391,7 +394,8 @@
         "AWS S3": "mdi:bucket",
         "PostgreSQL": "simple-icons:postgresql"
       },
-      "github": "https://github.com/anirudhaxe/snapper"
+      "github": "https://github.com/anirudhaxe/snapper",
+      "url": ""
     }
   ]
 }
