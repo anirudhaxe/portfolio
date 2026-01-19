@@ -51,7 +51,18 @@ const { region } = location
         <!-- {address}, {city}, {region} -->
         {region}
       </div>
-      <div class="print:block"><b>Contact: </b>{email}</div>
+      <div class="pl-3 print:block">{email}</div>
+      <div class="flex justify-start print:hidden">
+        <button
+          onclick="window.open('/resume.pdf', '_blank')"
+          class="flex items-center gap-2 px-3 py-1.5 text-xs text-skin-muted hover:text-skin-hue transition-colors rounded-lg hover:bg-skin-button-muted"
+          aria-label="Download resume"
+          data-umami-event="resume download"
+        >
+          <Icon name='mdi:download' width={16} height={16} />
+          <span>Resume</span>
+        </button>
+      </div>
     </section>
   </div>
   <div class='flex gap-6 print:hidden'>
